@@ -1,3 +1,3 @@
-# practice-repo
+# info
 
 Hello everyone!
